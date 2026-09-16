@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480">
+<rect width="480" height="480" fill="#fcfcfb"/>
+<rect x="0" y="0" width="480" height="3" fill="#1a1a1a"/>
+<text x="36" y="58" font-family="Helvetica, Arial, sans-serif" font-size="21" letter-spacing="1.5" fill="#7c7c7c"><tspan x="36" dy="0">CSIRO</tspan></text>
+<line x1="36" y1="118" x2="444" y2="118" stroke="#d9d9d5" stroke-width="1.5"/>
+<text x="36" y="168" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="2" fill="#7c7c7c">ENDS</text>
+<text x="36" y="242" font-family="Helvetica, Arial, sans-serif" font-size="68" letter-spacing="-2.5" fill="#1a1a1a">16 Jun</text>
+<text x="36" y="310" font-family="Helvetica, Arial, sans-serif" font-size="68" letter-spacing="-2.5" fill="#1a1a1a">2027</text>
+<text x="36" y="360" font-family="Helvetica, Arial, sans-serif" font-size="25" fill="#5f5f5c"><tspan x="36" dy="0">Mechanical services, Tasmania</tspan></text>
+<line x1="36" y1="404" x2="444" y2="404" stroke="#d9d9d5" stroke-width="1.5"/>
+<text x="36" y="431" font-family="Helvetica, Arial, sans-serif" font-size="17" letter-spacing="1" fill="#7c7c7c">INCUMBENT</text>
+<rect x="36" y="440" width="150" height="17" rx="2" fill="#1a1a1a" opacity=".82"/>
+<text x="444" y="450" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="30" fill="#1a1a1a">$3.63m</text>
+</svg>

@@ -1,0 +1,50 @@
+# OpenTender
+
+> Australian tender and bid writing with fixed, published prices and dated
+> turnarounds. OpenTender keeps a calendar of government contracts and when
+> they end, so tenders are found before they are advertised. Any industry,
+> Australia wide. Run by Matt Sharp.
+
+## What OpenTender does
+
+- Keeps a calendar of government contracts built from the buyers' own
+  registers: who holds each contract, what it is worth, and when it ends. A
+  contract that ends in March goes back to tender before March, usually three
+  to twelve months before anything is advertised.
+- Writes the tender response when a client decides to bid: compliance matrix,
+  technical answers, site-specific method, in the buyer's own template.
+- Checks the site inspection date first on any live tender. Most councils make
+  the inspection mandatory, so a tender that can no longer be inspected is
+  already dead.
+
+## Prices (published, + GST)
+
+- Council standard tender response: $3,000, back in 5 business days.
+- Full RFT (state, university, hospital, facilities management, multi-site):
+  $5,000, back in 10 business days.
+- Panel, multi-region or whole-of-state: quoted in writing from $7,500.
+- Watch (monthly calendar for one patch, incumbents named, site inspection
+  dates flagged): $500 a month, no lock-in, a fortnight's notice.
+- Nothing is owed until the client has read a draft and decided they want it
+  finished. Invoice on delivery, payable in 7 days.
+
+## Coverage
+
+Federal, state and council buyers across Australia. Any industry with a public
+contract; the calendar runs deepest in cleaning, waste, security, grounds,
+catering, trades and facilities management.
+
+## Straight answers
+
+- OpenTender never predicts a win. The promise is a complete, compliant
+  response lodged before the deadline.
+- Client pricing is always the client's: OpenTender does not price the work.
+- Client documents are stored in Australia, used only for that client's
+  tenders, and never put into public tools.
+- No testimonials are published until they are real and named.
+
+## Contact
+
+- Phone: 0424 996 704
+- Email: matt@opentender.com.au
+- Web: https://opentender.com.au/

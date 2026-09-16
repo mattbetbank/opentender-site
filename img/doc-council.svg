@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#fcfcfb"/>
+<rect x="0" y="0" width="800" height="4" fill="#1a1a1a"/>
+<text x="70" y="86" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="4" fill="#7c7c7c">REQUEST FOR TENDER</text>
+<text x="70" y="160" font-family="Helvetica, Arial, sans-serif" font-size="52" letter-spacing="-1.5" fill="#1a1a1a">Provision of</text>
+<text x="70" y="214" font-family="Helvetica, Arial, sans-serif" font-size="52" letter-spacing="-1.5" fill="#1a1a1a">Services</text>
+<line x1="70" y1="258" x2="730" y2="258" stroke="#d9d9d5" stroke-width="1.5"/>
+<rect x="70" y="300" width="560" height="10" rx="2" fill="#d9d9d5"/><rect x="70" y="326" width="520" height="10" rx="2" fill="#d9d9d5"/><rect x="70" y="352" width="545" height="10" rx="2" fill="#d9d9d5"/><rect x="70" y="378" width="480" height="10" rx="2" fill="#d9d9d5"/><rect x="70" y="404" width="530" height="10" rx="2" fill="#d9d9d5"/><rect x="70" y="430" width="300" height="10" rx="2" fill="#d9d9d5"/>
+<line x1="70" y1="500" x2="730" y2="500" stroke="#d9d9d5" stroke-width="1.5"/>
+<text x="70" y="537" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5f5f5c">Returnable schedules A to F</text>
+<text x="730" y="537" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#7c7c7c">In the buyer&#8217;s own template</text>
+</svg>
